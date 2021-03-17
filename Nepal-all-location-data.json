@@ -1,0 +1,1554 @@
+[
+    {
+       "province":"1",
+       "districts":[
+          {
+             "district":"JHAPA",
+             "hq":"BHADRAPUR",
+             "cityTypes": [
+               {
+                  "cityType": "Municipality",
+                  "cities": ["MechiNagar","Damak","Kankai","Bhadrapur","Arjundhara","ShivaSatakshi","Gauradaha","Birtamod"]
+               },
+               {
+                  "cityType": "VDC",
+                  "cities": ["Kamal","Gaurigunj","Barhadashi","Jhapa Gaunpalika","BuddaShanti","Haldibari","Kanchankawal"]
+               }
+            ]
+          },
+          {
+             "district":"ILAM",
+             "hq":"ILAM",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Ilam", "Deumai", "Mai", "Suryodaya"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Phakaphokthum", "Chulachuli", "Mai Jogmai", "Mangsebung", "Rong", "Sandakpur"]
+               }
+            ]
+          },
+          {
+             "district":"PANCHTHAR",
+             "hq":"PHIDIM",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Phidim"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Phalelung","Palgunanda","Hilihang","Kummayak","Miklajung","Tumbewa","Yangbarak"]
+               }
+            ]
+          },
+          {
+             "district":"TAPLEJUNG",
+             "hq":"TAPLEJUNG",
+             "cityTypes": [
+                {
+                  "cityType": "Municipality",
+                  "cities": ["Phungling"]
+                },
+                {
+                  "cityType": "VDC",
+                  "cities": ["Aatharai Triveni", "Sidingawa", "Phakatanglung", "Mikwa Khola", "Meringden", "Maiwa Khola", "Pathibhara Yangbarak", "Sirijunga"]
+                }
+             ]
+          },
+          {
+             "district":"MORANG",
+             "hq":"BIRATNAGAR",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Biratnagar"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Belbari", "Letang", "Pathari-Sanishchare", "Rangeli", "Ratuwamai", "Sunbarshi", "Urlabari", "SundarHaraincha"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["BudhiGanga", "Dhanpalthan", "Gramthan", "Jahada", "Kanepokhari", "Katahari", "Kerabari", "Miklajung"]
+               }
+            ]
+          },
+          {
+             "district":"SUNSARI",
+             "hq":"INARUWA",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Itahari","Dharan"]
+               },
+               {
+                  "cityType": "Municipality",
+                  "cities": ["Inaruwa", "Duhabi", "Ramdhuni", "Baraha"]
+               },
+               {
+                  "cityType": "VDC",
+                  "cities": ["Dewangunj","Koshi","Gadhi","Barju","Bhokraha","Harinagara"]
+               }
+            ]
+          },
+          {
+             "district":"BHOJPUR",
+             "hq":"BHOJPUR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bhojpur","Shadananda"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Tyamke Maiyum","Ram Prasad Rai","Arun Gaunpalika","PauwaDungama","Salpasilichho","Aamchok","HatuwaGadhi"]
+               }
+            ]
+          },
+          {
+             "district":"DHANKUTA",
+             "hq":"DHANKUTA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Pakhribas","Dhankuta","Mahalaxmi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["SanguriGadhi","Khalsa Chhintang Sahidbhumi","Chhathar Jorpati","Chaubise"]
+               }
+            ]
+          },
+          {
+             "district":"TEHRATHUM",
+             "hq":"MYANGLUNG",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Myanglung","Laligurans"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Aatharai","Chhathar","Phedap","Menchayayem"]
+               }
+            ]
+          },
+          {
+             "district":"SANKHUWASABHA",
+             "hq":"KHANDBARI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chainpur","DharmaDevi","Khadbari","Madi","PanchKhapan"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Bhot Khola","Chichila","Makalu","Sabhapokhari","Silingchong"]
+               }
+            ]
+          },
+          {
+             "district":"UDAYAPUR",
+             "hq":"TRIYUGA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Katari","ChaudandiGadhi","Triyuga","Belaka"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Udayapur Gadhi","Tapli","Rautamai","Limchungbung"]
+               }
+            ]
+          },
+          {
+             "district":"KHOTANG",
+             "hq":"DIKTEL",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Halesi Tuwachung","Rupakot Majhuwagadhi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Aiselukharka","Lamidanda","Jantedhunga","Khotehang","Kepilasgadhi","Diprung","Sakela","Barahpokhari"]
+               }
+            ]
+          },
+          {
+             "district":"OKHALDHUNGA",
+             "hq":"SIDDHICHARAN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["SiddiCharan"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Khiji Demba","Champadevi","ChishankhuGadhi","ManeBhanjyang","Molung","Likhu","Sunkoshi"]
+               }
+            ]
+          },
+          {
+             "district":"SOLUKHUMBU",
+             "hq":"DUDHKUNDA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["SoluDudhakund"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Dudhakoshi","Khumbu PasangLhamu","Dudhakaushika","Necha Salyan","Maha Kulung","Likhu Pike","Sotang"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"2",
+       "districts":[
+          {
+             "district":"SAPTARI",
+             "hq":"RAJBIRAJ",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Rajbiraj","Kanchanrup","Dakneshwori","BodeBarsain","Khadak","Shambhunath","Surunga"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["HanumanNagar Kankalini","Krishna Sawaran","Chhinnamasta","Mahadeva","Saptkoshi","Tirhut","Tilathi Koiladi","Rupani","Belhi Chapani","Bishnupura"]
+               }
+            ]
+          },
+          {
+             "district":"SIRAHA",
+             "hq":"SIRAHA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Lahan","DhanagadhiMai","Siraha","GolBazaar","Mirchaiya","Kalyanpur"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Bhagawanpur", "Aaurahi","Bishnupur","Sukhipur","Karjanha","Bariyarpatti","Laxmipur Patari","Naraha","Sakhuwanankarkatt","Arnama","Nawarajpur"]
+               }
+            ]
+          },
+          {
+             "district":"DHANUSA",
+             "hq":"JANAKPUR",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Janakpur"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chhireshwarnath","Ganeshman Charnath","Dhanusadham","Nagaraen","Bideh","Mithila","Shahid Nagar","Sabaila"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kamala Siddidatri","Janak Nandini","Bateshwor","Mithila Bihari","Mukhiyapatti Musaharmiya","Laxminiya","Hanspur","Aaurahi"]
+               }
+            ]
+          },
+          {
+             "district":"MAHOTTARI",
+             "hq":"JALESHWAR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Jaleshwor","Bardibas","Gaushala"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Ekadara","Sonama","Samsi","Loharpatti","RamGopalpur","Mahottari","Manara","Matihani","Bhangaha","Balawa","Pipara","Aaurahi"]
+               }
+            ]
+          },
+          {
+             "district":"SARLAHI",
+             "hq":"MALANGWA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": [ "Ishworpur ",
+                  "Malangawa",
+                  "Lalbandi",
+                  "Haripur",
+                  "Haripurwa",
+                  "Hariwan",
+                  "Barahathawa",
+                  "Balara",
+                  "Godaita",
+                  "Bagamati"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kabilasi",
+                  "Chakraghatta",
+                  "Chandra Nagar",
+                  "DhanaKoul",
+                  "Bramhapuri",
+                  "Ram Nagar",
+                  "Bishnu"]
+               }
+            ]
+          },
+          {
+             "district":"BARA",
+             "hq":"KALAIYA",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Kalaiya",
+                  "Jitpur Simara"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kolhabi",
+                  "Nijgadh",
+                  "Maha Gahdimai",
+                  "Simraun Gadh"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Adarsha Kotwal",
+                  "Karaiya Mai",
+                  "Devtaal",
+                  "PachaRouta",
+                  "Parawanipur",
+                  "Prasouni",
+                  "Pheta",
+                  "Bara Gadhi",
+                  "Subarna"]
+               }
+            ]
+          },
+          {
+             "district":"PARSA",
+             "hq":"BIRGANJ",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Birgunj"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Pokhariya"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Subarnapur",
+                  "Jagarnathapur",
+                  "Dhobini",
+                  "Chhipahar Mai",
+                  "Pakaha Mainpur",
+                  "Bindabasini",
+                  "Bahudar Mai",
+                  "Belawa",
+                  "Parsa Gadhi",
+                  "Sakhuwa Prasouni",
+                  "Paterwa Sugauli"]
+               }
+            ]
+          },
+          {
+             "district":"RAUTAHAT",
+             "hq":"GAUR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chandrapur",
+                  "Garuda",
+                  "Gaur"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["BoudhiMai",
+                  "Brindaban",
+                  "Devahi Gonahi",
+                  "Durga Bhagawati",
+                  "GadhiMai",
+                  "Gujara",
+                  "Katahariya",
+                  "Madhav Narayan",
+                  "Moulapur",
+                  "Phatuwa Bijayapur",
+                  "IshNath",
+                  "Paroha",
+                  "Rajpur"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"3",
+       "districts":[
+          {
+             "district":"SINDHULI",
+             "hq":"KAMALAMAI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kamalamai","Dudhauli"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Golanjor",
+                  "Ghyanglekh",
+                  "Teen Patan",
+                  "Phikkal",
+                  "Marin",
+                  "Sunkoshi",
+                  "Hariharpur Gadhi"]
+               }
+            ]
+          },
+          {
+             "district":"RAMECHHAP",
+             "hq":"MANTHALI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Manthali","Ramechhap"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Umakunda",
+                  "KhandaDevi",
+                  "Gokul Ganga",
+                  "Doramba",
+                  "Likhu",
+                  "Sunapati"]
+               }
+            ]
+          },
+          {
+             "district":"DOLAKHA",
+             "hq":"BHIMESHWAR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Jiri",
+                  "Bhimeshwor"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kalinchok",
+                  "Gauri Shankar",
+                  "Tamakoshi",
+                  "Melung",
+                  "Bigu",
+                  "Baiteshwor",
+                  "Shailung"]
+               }
+            ]
+          },
+          {
+             "district":"BHAKTAPUR",
+             "hq":"BHAKTAPUR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Changunarayan",
+                  "Bhaktapur",
+                  "Madhyapur",
+                  "Surya Binayak"]
+               }
+            ]
+          },
+          {
+             "district":"DHADING",
+             "hq":"NILKANTHA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Dhunibesi",
+                  "Nilkantha"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Khaniyabas",
+                  "Gajuri",
+                  "Galchhi",
+                  "Ganga Jamuna",
+                  "Jwalamukhi",
+                  "Thakre",
+                  "Netrawati",
+                  "Benighat Rorang",
+                  "Rubi Valley",
+                  "Sidda Lekh",
+                  "Tripura Sundari"]
+               }
+            ]
+          },
+          {
+             "district":"KATHMANDU",
+             "hq":"KATHMANDU",
+             "cityTypes": [
+               {
+                 "cityType": "Metropolitan",
+                 "cities": ["Kathmandu"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kageswori-Manohara",
+                  "Kirtipur",
+                  "Gokarneshwor",
+                  "Chandragiri",
+                  "Tokha",
+                  "Tarkeshwor",
+                  "Daxinkali",
+                  "Nagarjun",
+                  "Budhanialkantha",
+                  "Sankharapur"]
+               }
+            ]
+          },
+          {
+             "district":"KAVREPALANCHOWK",
+             "hq":"DHULIKHEL",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Dhulikhel",
+                  "Banepa",
+                  "Panauti",
+                  "Panchkhal",
+                  "Namobuddha"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Mandan Deupur",
+                  "Khanikhola",
+                  "Chaunri Deurali",
+                  "Temal",
+                  "Bethanchok",
+                  "Bhumlu",
+                  "Mahabharat",
+                  "Roshi"]
+               }
+            ]
+          },
+          {
+             "district":"LALITPUR",
+             "hq":"LALITPUR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Lalitpur",
+                  "Godawari",
+                  "MahaLaxmi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Konjyosom",
+                  "Bagmati",
+                  "Mahankal"]
+               }
+            ]
+          },
+          {
+             "district":"NUWAKOT",
+             "hq":"BIDUR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bidur",
+                  "Belkot Gadhi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kakani",
+                  "Kispang",
+                  "Tadi",
+                  "Tarkeshwor",
+                  "Dupcheshwor",
+                  "PanchaKanya",
+                  "Likhu",
+                  "Meghang",
+                  "Shivpuri",
+                  "Surya Gadhi"]
+               }
+            ]
+          },
+          {
+             "district":"RASUWA",
+             "hq":"DHUNCHE",
+             "cityTypes": [
+               {
+                 "cityType": "VDC",
+                 "cities": ["Uttar Gaya",
+                  "Kalika",
+                  "GosaiKunda",
+                  "NauKunda",
+                  "ParbatiKunda"]
+               }
+            ]
+          },
+          {
+             "district":"SINDHUPALCHOK",
+             "hq":"CHAUTARA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chautara Sangachokgadhi ",
+                  "Barhabise",
+                  "Melamchi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Indrawati",
+                  "Jugal",
+                  "PanchaPokhari",
+                  "Balephi",
+                  "Bhotekoshi",
+                  "Lishankhu Pakhar",
+                  "Sunkoshi",
+                  "Helambu",
+                  "TripuraSundari"]
+               }
+            ]
+          },
+          {
+             "district":"CHITWAN",
+             "hq":"BHARATPUR",
+             "cityTypes": [
+               {
+                 "cityType": "Metropolitan",
+                 "cities": ["Bharatpur"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kalika",
+                  "Khairhani",
+                  "Madi",
+                  "Ratna Nagar",
+                  "Rapti"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Ichchhakamana"]
+               }
+            ]
+          },
+          {
+             "district":"MAKWANPUR",
+             "hq":"HETAUDA",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Hetaunda"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Thaha"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Indra Sarobar",
+                  "Kailash",
+                  "Bakaiya",
+                  "Bagmati",
+                  "Bhimphedi",
+                  "Makawanpur Gadhi",
+                  "Manahari",
+                  "Raksirang"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"Gandaki Pradesh",
+       "districts":[
+          {
+             "district":"GORKHA",
+             "hq":"GORKHA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Gorkha",
+                  "Palungtar"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Sulikot",
+                  "Siranchok",
+                  "Ajirkot",
+                  "Aarughat",
+                  "Gandaki",
+                  "Chumanubri",
+                  "Dharche",
+                  "Bhimsen",
+                  "Shahid Lakhan"]
+               }
+            ]
+          },
+          {
+             "district":"KASKI",
+             "hq":"POKHARA",
+             "cityTypes": [
+               {
+                 "cityType": "Metropolitan",
+                 "cities": ["Pokhara Lekhnath"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Annapurna",
+                  "Machhapuchhre",
+                  "Madi",
+                  "Rupa"]
+               }
+            ]
+          },
+          {
+             "district":"LAMJUNG",
+             "hq":"BESISAHAR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Besishahar",
+                  "Madhya Nepal",
+                  "Rainas",
+                  "Sundarbazar"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kabahola Sothar",
+                  "Dhudh Pokhari",
+                  "Dordi",
+                  "Marsyangdi"]
+               }
+            ]
+          },
+          {
+             "district":"SYANGJA",
+             "hq":"PUTALIBAZAR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Galyang",
+                  "Chapakot",
+                  "Putalibazar",
+                  "Bhirkot",
+                  "Waling"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Arjun Chaupari",
+                  "Aandhi Khola",
+                  "Kali Gandaki",
+                  "Phedi Khola",
+                  "Biruwa",
+                  "Harinas"]
+               }
+            ]
+          },
+          {
+             "district":"TANAHU",
+             "hq":"BYAS",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bhanu",
+                  "Bhimad",
+                  "Byas",
+                  "Sukla Gandaki"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Aanbu Khaireni",
+                  "Rishing",
+                  "Ghiring",
+                  "Devghat",
+                  "Myagde",
+                  "Bandipur"]
+               }
+            ]
+          },
+          {
+             "district":"MANANG",
+             "hq":"CHAME",
+             "cityTypes": [
+               {
+                 "cityType": "VDC",
+                 "cities": ["Chame",
+                  "Nar Phu",
+                  "Nashong",
+                  "Nesyang"]
+               }
+            ]
+          },
+          {
+             "district":"NAWALPUR",
+             "hq":"KAWASOTI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": [ "Kawasoti",
+                  "Gaindakot",
+                  "Devchuli",
+                  "Madhya Bindu"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Bungdi Kali",
+                  "Bulingtar",
+                  "Binayi Tribeni",
+                  "Hupsekot"]
+               }
+            ]
+          },
+          {
+             "district":"BAGLUNG",
+             "hq":"BAGLUNG",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Baglung",
+                  "Galkot",
+                  "Jaimini",
+                  "Dhorpatan"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": [ "Bareng",
+                  "Kathe Khola",
+                  "Taman Khola",
+                  "Tara Khola",
+                  "Nisi Khola",
+                  "Badi Gad"]
+               }
+            ]
+          },
+          {
+             "district":"MYAGDI",
+             "hq":"BENI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Beni"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Annapurna",
+                  "Dhawalagiri",
+                  "Mangala",
+                  "Malika",
+                  "Raghu Ganga"]
+               }
+            ]
+          },
+          {
+             "district":"PARBAT",
+             "hq":"KUSMA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kushma",
+                  "Phalebas"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Jaljala",
+                  "Painyoo",
+                  "Maha Shila",
+                  "Modi",
+                  "Bihadi"]
+               }
+            ]
+          },
+          {
+             "district":"MUSTANG",
+             "hq":"JOMSOM",
+             "cityTypes": [
+               {
+                 "cityType": "VDC",
+                 "cities": [ "Gharpajhong",
+                  "Thasang",
+                  "Dalome",
+                  "Lomanthang",
+                  "Barha Gaun Muktichhetra"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"5",
+       "districts":[
+          {
+             "district":"KAPILVASTU",
+             "hq":"KAPILVASTU",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kapilbastu",
+                  "Buddabhumi",
+                  "Shivaraj",
+                  "Maharajganj",
+                  "Krishna Nagar",
+                  "Banganga"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Mayadevi",
+                  "Yashodhara",
+                  "Suddodhana",
+                  "Bijay Nagar"]
+               }
+            ]
+          },
+          {
+             "district":"PARASI",
+             "hq":"PARASI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bardghat",
+                  "Ramgram",
+                  "Sunwal"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Susta",
+                  "Palhinand",
+                  "Pratappur",
+                  "Sarawal"]
+               }
+            ]
+          },
+          {
+             "district":"RUPANDEHI",
+             "hq":"SIDDHARTHANAGAR",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Butwal"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Devdaha",
+                  "Lumbini Sanskritik",
+                  "Siddharthanagar",
+                  "Saina Maina",
+                  "Tilottama"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Gaidahawa",
+                  "Kanchan",
+                  "Kotahi Mai",
+                  "Marchawari",
+                  "Mayadevi",
+                  "Om Satiya",
+                  "Rohini",
+                  "Sammari Mai",
+                  "Siyari",
+                  "Suddodhana"]
+               }
+            ]
+          },
+          {
+             "district":"ARGHAKHANCHI",
+             "hq":"SANDHIKHARKA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Sandhikharka",
+                  "Shit Ganga",
+                  "Bhumikasthan"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Chhatra Dev",
+                  "Panini",
+                  "Malarani"]
+               }
+            ]
+          },
+          {
+             "district":"GULMI",
+             "hq":"RESUNGA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Musikot",
+                  "Resunga"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Isma",
+                  "Kali Gandaki",
+                  "Gulmi Durbar",
+                  "Satyawati",
+                  "Chandrakot",
+                  "Ruru",
+                  "Chhatrakot",
+                  "Dhurkot",
+                  "Madane",
+                  "Malika"]
+               }
+            ]
+          },
+          {
+             "district":"PALPA",
+             "hq":"TANSEN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Rampur",
+                  "Tansen"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Nisdi",
+                  "Purba Khola",
+                  "Rambha",
+                  "Matha Gadhi",
+                  "Tinau",
+                  "Bagnaskali",
+                  "Ribdikot",
+                  "Raina Devi Chhahara"]
+               }
+            ]
+          },
+          {
+             "district":"DANG",
+             "hq":"TRIBHUWANNAGAR",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Tulsipur",
+                  "Ghorahi"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Lamahi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Banglachuli",
+                  "Dangi Sharan",
+                  "Gadhawa",
+                  "Rajpur",
+                  "Rapti",
+                  "Shanti Nagar",
+                  "Babai"]
+               }
+            ]
+          },
+          {
+             "district":"PYUTHAN",
+             "hq":"PYUTHAN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Pyuthan",
+                  "Swargadwari"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Gaumukhi",
+                  "Mandavi",
+                  "Sarumarani",
+                  "Mallarani",
+                  "Nau Bahini",
+                  "Jhimaruk",
+                  "Eairabati"]
+               }
+            ]
+          },
+          {
+             "district":"ROLPA",
+             "hq":"LIWANG",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Rolpa"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Triveni",
+                  "Dui Kholi",
+                  "Madi",
+                  "Runti Gadhi",
+                  "Lungri",
+                  "Sukidaha",
+                  "Sunchhahari",
+                  "Subarnawati",
+                  "Thawang"]
+               }
+            ]
+          },
+          {
+             "district":"EASTERN RUKUM",
+             "hq":"RUKUMKOT",
+             "cityTypes": [
+               {
+                 "cityType": "VDC",
+                 "cities": ["Putha Uttar Ganga",
+                  "Bhume",
+                  "Sisne"]
+               }
+            ]
+          },
+          {
+             "district":"BANKE",
+             "hq":"NEPALGANJ",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Nepalgunj"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Kohalpur"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Narainapur",
+                  "Raptisonari",
+                  "Baijanath",
+                  "Khajura",
+                  "Duduwa",
+                  "Janaki"]
+               }
+            ]
+          },
+          {
+             "district":"BARDIYA",
+             "hq":"GULARIYA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Gulariya",
+                  "Maduvan",
+                  "Rajapur Taratal",
+                  "Thakura Baba",
+                  "Bansgadhi",
+                  "Bar Bardiya"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Badhaiya Tal",
+                  "Geruwa"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"Karnali Pradesh",
+       "districts":[
+          {
+             "district":"WESTERN RUKUM",
+             "hq":"MUSIKOT",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Musikot",
+                  "Chaurjahari",
+                  "Aathbiskot"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Banphikot",
+                  "Tribeni",
+                  "Sani Bheri"]
+               }
+            ]
+          },
+          {
+             "district":"SALYAN",
+             "hq":"SALYAN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Sharada",
+                  "Bagchaur",
+                  "Bangad Kupinde"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kalimati",
+                  "Triveni",
+                  "Kapurkot",
+                  "Chhatreshwori",
+                  "Dhorchaur",
+                  "Kumakha Malika",
+                  "Darma"]
+               }
+            ]
+          },
+          {
+             "district":"DOLPA",
+             "hq":"DUNAI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Thuli Bheri",
+                  "Tripura Sundari"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Dolpo Buddha",
+                  "She-Phoksundo",
+                  "Jagadulla",
+                  "Mudke Chula gaun",
+                  "Kaieke",
+                  "Chharka Tongsong"]
+               }
+            ]
+          },
+          {
+             "district":"HUMLA",
+             "hq":"SIMIKOT",
+             "cityTypes": [
+               {
+                 "cityType": "VDC",
+                 "cities": ["Simkot",
+                  "Namkha",
+                  "Kharpu Nath",
+                  "Sarkegad",
+                  "Chankheli",
+                  "Adanchuli",
+                  "Tanjakot"]
+               }
+            ]
+          },
+          {
+             "district":"JUMLA",
+             "hq":"CHANDANNATH",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chandannath"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kanaka Sundari",
+                  "Sinja",
+                  "Hima",
+                  "Tila",
+                  "Guthichaur",
+                  "Tatopani",
+                  "Patarasi"]
+               }
+            ]
+          },
+          {
+             "district":"KALIKOT",
+             "hq":"MANMA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Khandachakra",
+                  "Raskot",
+                  "Tila Gupha"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Pachal Jharana",
+                  "Sanni Triveni",
+                  "Narhari Nath",
+                  "Kalika",
+                  "Mahawai",
+                  "Palata"]
+               }
+            ]
+          },
+          {
+             "district":"MUGU",
+             "hq":"GAMGHADI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Chhaya Nath Rara"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Mugumakarmarong",
+                  "Soru",
+                  "Khatyad"]
+               }
+            ]
+          },
+          {
+             "district":"SURKHET",
+             "hq":"BIRENDRANAGAR",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Birendra Nagar",
+                  "Bheri Ganga",
+                  "Gurbhakot",
+                  "Panchapuri",
+                  "Lek Besi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Chaukune",
+                  "Baraha Tal",
+                  "Chingad",
+                  "Simta"]
+               }
+            ]
+          },
+          {
+             "district":"DAILEKH",
+             "hq":"NARAYAN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Narayan",
+                  "Dullu",
+                  "Chamunda Bindrasaini",
+                  "Aathabis"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Bhagawati Mai",
+                  "Gurans",
+                  "Dungeshwor",
+                  "Naumule",
+                  "Mahabu",
+                  "Bairavi",
+                  "Thantikandh"]
+               }
+            ]
+          },
+          {
+             "district":"JAJARKOT",
+             "hq":"KHALANGA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bheri",
+                  "Chhedagad",
+                  "Triveni Nalgad"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Kuse",
+                  "Junichande",
+                  "Barekot",
+                  "Shivalaya"]
+               }
+            ]
+          }
+       ]
+    },
+    {
+       "province":"Sudurpashchim Pradesh",
+       "districts":[
+          {
+             "district":"KAILALI",
+             "hq":"DHANGADHI",
+             "cityTypes": [
+               {
+                 "cityType": "Sub-Metropolitan",
+                 "cities": ["Dhangadhi"]
+               },
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Tikapur",
+                  "Ghodaghodi",
+                  "Lamki-Chuha",
+                  "Bhajani",
+                  "Godavari",
+                  "Gauri Ganga"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Janaki",
+                  "Bardagoriya",
+                  "Mohanyal",
+                  "Kailari",
+                  "Joshipur",
+                  "Chure"]
+               }
+            ]
+          },
+          {
+             "district":"ACHHAM",
+             "hq":"MANGALSEN",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Mangalsen",
+                  "Sanfebagar",
+                  "Kamalbazar",
+                  "Panchdeval Binayak"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Chourpati",
+                  "Mellekh",
+                  "Bannigadhi Jayagadh",
+                  "RamaRoshan",
+                  "Dhakari",
+                  "Turmakhand"]
+               }
+            ]
+          },
+          {
+             "district":"DOTI",
+             "hq":"DIPAYAL SILGADHI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Dipayal-Silgadi",
+                  "Shikhar"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Purbi Chouki",
+                  "Badikedar",
+                  "Jorayal",
+                  "Sayal",
+                  "Aadarsha",
+                  "K.I. Singh",
+                  "Bogtan"]
+               }
+            ]
+          },
+          {
+             "district":"BAJHANG",
+             "hq":"JAYAPRITHVI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Jaya Prithvi",
+                  "Bungal"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Talkot",
+                  "Masta",
+                  "Khaptadchhanna",
+                  "Thalara",
+                  "Bitthadchir",
+                  "Surma",
+                  "Chhabis Pathibhera",
+                  "Durgathali",
+                  "Kedarsyun",
+                  "Kanda"]
+               }
+            ]
+          },
+          {
+             "district":"BAJURA",
+             "hq":"MARTADI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Badi Malika",
+                  "Triveni",
+                  "Budhi Ganga",
+                  "Budhi Nanda"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Gaumul",
+                  "Pandav Gupha",
+                  "SwamiKartik",
+                  "Chhededaha",
+                  "Himali"]
+               }
+            ]
+          },
+          {
+             "district":"KANCHANPUR",
+             "hq":"BHIMDATTA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Bhimdatta",
+                  "Punarbas",
+                  "Bedkot",
+                  "Mahakali",
+                  "Shuklaphanta",
+                  "Belauri",
+                  "Krishnapur"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Beldandi",
+                  "Laljhadi"]
+               }
+            ]
+          },
+          {
+             "district":"DADELDHURA",
+             "hq":"AMARGADHI",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Amargadhi",
+                  "Parashuram"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Aalitaal",
+                  "Bhageshwor",
+                  "Navadurga",
+                  "Ajaymeru",
+                  "Ganyapdhura"]
+               }
+            ]
+          },
+          {
+             "district":"BAITADI",
+             "hq":"DASHARATHCHAND",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Dasharath Chanda",
+                  "Patan",
+                  "Melauli",
+                  "Purchaundi"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Surnaiya",
+                  "Sigas",
+                  "Shivanath",
+                  "Pancheshwor",
+                  "Dogada Kedar",
+                  "Dilasaini "]
+               }
+            ]
+          },
+          {
+             "district":"DARCHULA",
+             "hq":"DARCHULA",
+             "cityTypes": [
+               {
+                 "cityType": "Municipality",
+                 "cities": ["Mahakali",
+                  "Sailya Shikhar"]
+               },
+               {
+                 "cityType": "VDC",
+                 "cities": ["Malikarjun",
+                  "Api Himal",
+                  "Duhun",
+                  "Naugad",
+                  "Marma",
+                  "Lekam",
+                  "Byans"]
+               }
+            ]
+          }
+       ]
+    }
+ ]
